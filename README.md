@@ -1,5 +1,5 @@
 # StartingWithChatBot
-Ya que la mayoría de tutoriales son bastante meh y se saltan pasos, por si alguien se aburre y le apetece trastear le dejo por aquí los pasitos a seguir para que esto funcione. 
+Ya que la mayoría de tutoriales son bastante meh y se saltan pasos, por si alguien se aburre y le apetece trastear le dejo por aquí los pasitos a seguir para que esto funcione. Cualquier duda preguntadme. Se llama Ramona por el perro de Guille, a nadie le interesa pero yo lo cuento. Ale, disfrutad. 
 ----------------------------------
 
 Steps: 
