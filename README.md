@@ -24,4 +24,4 @@ Steps:
   
 ----------------------------------  
 
-Los próximos pasitos son enseñar a Ramona más y más. Molaría enseñarla cosas lógicas y razonamiento matemático. Ya que ahora mismo solo tiene una base muy básica. En el próximo update subo cosis. :-) 
+Los próximos pasitos son enseñar a Ramona más y más. Molaría enseñarla cosas lógicas y razonamiento matemático. Ya que ahora mismo solo tiene una base muy básica. Subiré otro update próximamente. :-) 
